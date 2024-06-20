@@ -28,6 +28,12 @@ This project, explores the relationship between Germany's economic and social me
 ##### Rationale for Design Choices:
 - Bar charts are used to delineate stock market values across different years and seasons. A scatter plot overlaid with a trend line illustrates the trajectory of stock market values.
 
+### output 
+
+![image](https://github.com/MuhammadHaziq1337/Temperature-Effect-on-Germany-Tableau-/assets/148570176/0a336072-96da-4531-85ba-f862342b18b2)
+
+  
+
 ### 2. Death Rate & Temperature Analysis
 
 #### Questions Addressed:
@@ -39,6 +45,11 @@ This project, explores the relationship between Germany's economic and social me
 
 #### Rationale for Design Choices:
 - Scatter plots are used to elucidate the correlation between death rates and temperatures. The color and size of each data point represent the season and the annual percentage change, respectively.
+
+### output
+
+![image](https://github.com/MuhammadHaziq1337/Temperature-Effect-on-Germany-Tableau-/assets/148570176/39f8c07e-9245-4945-a346-7956fa27f05a)
+
 
 ## Data Sources
 
